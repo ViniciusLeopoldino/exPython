@@ -1,1 +1,1 @@
-Exercicio jogo da forca
+Exercicios python
